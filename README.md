@@ -92,6 +92,9 @@ Andrej Karpathy, May 2015
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\
 Chris Olah, Aug 2015
 
+[Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)\
+Andreas Madsen, Mar 2019
+
 ### Training neural networks
 
 [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)\
