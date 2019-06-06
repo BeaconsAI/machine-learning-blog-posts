@@ -1,6 +1,6 @@
 # Machine Learning Blog Posts
 
-Links to blog posts about different topics in ML and AI.
+Blog posts are some of the best resources for learning - here are some links to blog posts about different topics in ML and AI.
 
 Contributions are welcome, just submit a pull request:
 * Blog posts only, no papers!
@@ -50,6 +50,11 @@ Jochen Gortler, Rebecca Kehlbeck, Oliver Deussen, Apr 2019
 
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
 Chris Olah, Oct 2015
+
+### Interpretability
+
+[The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)\
+Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev, Mar 2018
 
 ### Neural art
 
