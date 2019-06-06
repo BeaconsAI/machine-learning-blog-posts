@@ -59,6 +59,11 @@ Chris Olah, Oct 2015
 [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)\
 Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev, Mar 2018
 
+### Miscellaneous
+
+[Reflections on Random Kitchen Sinks](http://www.argmin.net/2017/12/05/kitchen-sinks/)\
+Ali Rahimi, Ben Recht, Dec 2017
+
 ### Neural art
 
 [Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/)\
