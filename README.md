@@ -88,5 +88,8 @@ Andrej Karpathy, Apr 2019
 
 ### Variational autoencoders (VAEs)
 
+[A Tutorial on Information Maximizing Variational Autoencoders (InfoVAE)](https://ermongroup.github.io/blog/a-tutorial-on-mmd-variational-autoencoders/)\
+Shengjia Zhao, Dec 2017
+
 [Density Estimation: Variational autoencoders](http://ruishu.io/2018/03/14/vae/)\
 Rui Shu, Mar 2018
