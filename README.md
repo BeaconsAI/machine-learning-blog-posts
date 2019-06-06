@@ -10,9 +10,17 @@ Contributions are welcome, just submit a pull request:
 * Improvements to organization are welcome =D
 
 
-## Blog posts
+-----
 
----
+### Convolutional neural networks (CNNs)
+
+[Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)\
+Chris Olah, Jul 2014
+
+[Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)\
+Chris Olah, Jul 2014
+
+
 
 ### Dimensionality reduction
 
