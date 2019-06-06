@@ -12,6 +12,11 @@ Contributions are welcome, just submit a pull request:
 
 -----
 
+### Attention
+
+[Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)\
+Adam Kosiorek, Oct 2017
+
 ### Convolutional neural networks (CNNs)
 
 [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)\
