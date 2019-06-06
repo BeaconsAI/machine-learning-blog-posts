@@ -3,7 +3,7 @@
 Links to blog posts about different topics in ML and AI.
 
 Contributions are welcome, just submit a pull request:
-* Blog posts only!
+* Blog posts only, no papers!
 * Follow the formatting conventions
 * Pull request and commit titles are useful
 * Try not to submit duplicates
@@ -52,6 +52,11 @@ Adam Kosiorek, Apr 2018
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
 
+### Optimization
+
+[Why Momentum Really Works])(https://distill.pub/2017/momentum/)
+Gabriel Goh, Apr 2017
+
 ### Probability
 
 [Gaussian Distributions are Soap Bubbles](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)\
@@ -62,14 +67,13 @@ Ference Huszar, Nov 2017
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)\
 Andrej Karpathy, May 2016
 
-### RNNs/LSTMs
+### Recurrent neural networks (RNNs/LSTMs)
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\
 Andrej Karpathy, May 2015
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\
 Chris Olah, Aug 2015
-
 
 ### Training neural networks
 
