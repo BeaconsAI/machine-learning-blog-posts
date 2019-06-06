@@ -14,6 +14,10 @@ Contributions are welcome, just submit a pull request:
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
 Chris Olah, Oct 2015
 
+### LSTMs
+
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\
+Chris Olah, Aug 2015
 
 ### Normalizing flows
 
