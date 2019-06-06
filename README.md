@@ -1,6 +1,6 @@
 # Machine Learning Blog Posts
 
-This repo links to a curated list of ML and AI blog posts about different topics.
+Links to blog posts about different topics in ML and AI.
 
 Contributions are welcome, just submit a pull request:
 * Blog posts only!
@@ -8,6 +8,16 @@ Contributions are welcome, just submit a pull request:
 * Pull request and commit titles are useful
 * Try not to submit duplicates
 * Improvements to organization are welcome =D
+
+
+## Blog posts
+
+---
+
+### Dimensionality reduction
+
+[Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)\
+Chris Olah, Oct 2014
 
 ### Generative adversarial networks (GANs)
 
@@ -36,7 +46,7 @@ Lilian Weng, Oct 2018
 
 ### Probability
 
-[Gaussian Distributions are Soap Bubbles](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)
+[Gaussian Distributions are Soap Bubbles](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)\
 Ference Huszar, Nov 2017
 
 ### Reinforcement learning (RL)
