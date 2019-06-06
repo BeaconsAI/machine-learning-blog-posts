@@ -93,3 +93,6 @@ Shengjia Zhao, Dec 2017
 
 [Density Estimation: Variational autoencoders](http://ruishu.io/2018/03/14/vae/)\
 Rui Shu, Mar 2018
+
+[What is wrong with VAEs?](http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html)\
+Adam Kosiorek, Mar 2018
