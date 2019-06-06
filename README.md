@@ -51,6 +51,10 @@ Jochen Gortler, Rebecca Kehlbeck, Oliver Deussen, Apr 2019
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
 Chris Olah, Oct 2015
 
+### Neural art
+
+[Differentiable Image Parameterizations](https://distill.pub/2018/differentiable-parameterizations/)\
+Alexander Mordvintsev, Nicola Pezzotti, Ludwig Schubert, Chris Olah, Jul 2018
 
 ### Normalizing flows
 
