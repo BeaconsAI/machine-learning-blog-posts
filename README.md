@@ -20,8 +20,6 @@ Chris Olah, Jul 2014
 [Understanding Convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)\
 Chris Olah, Jul 2014
 
-
-
 ### Dimensionality reduction
 
 [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)\
@@ -31,6 +29,11 @@ Chris Olah, Oct 2014
 
 [InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)\
 Ferenc Huszar, Aug 2016
+
+### Gaussian processes
+
+[A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)\
+Jochen Gortler, Rebecca Kehlbeck, Oliver Deussen, Apr 2019
 
 ### Information theory
 
@@ -54,7 +57,7 @@ Lilian Weng, Oct 2018
 
 ### Optimization
 
-[Why Momentum Really Works])(https://distill.pub/2017/momentum/)
+[Why Momentum Really Works])(https://distill.pub/2017/momentum/)\
 Gabriel Goh, Apr 2017
 
 ### Probability
