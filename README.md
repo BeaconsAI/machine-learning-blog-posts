@@ -86,3 +86,7 @@ Chris Olah, Aug 2015
 [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)\
 Andrej Karpathy, Apr 2019
 
+### Variational autoencoders (VAEs)
+
+[Density Estimation: Variational autoencoders](http://ruishu.io/2018/03/14/vae/)\
+Rui Shu, Mar 2018
