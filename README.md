@@ -57,7 +57,7 @@ Lilian Weng, Oct 2018
 
 ### Optimization
 
-[Why Momentum Really Works])(https://distill.pub/2017/momentum/)\
+[Why Momentum Really Works](https://distill.pub/2017/momentum/)\
 Gabriel Goh, Apr 2017
 
 ### Probability
