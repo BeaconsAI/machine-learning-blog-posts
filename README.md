@@ -33,6 +33,9 @@ Chris Olah, Jul 2014
 [Visualizing MNIST: An Exploration of Dimensionality Reduction](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)\
 Chris Olah, Oct 2014
 
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)\
+Martin Wattenberg, Fernanda Viegas, Ian Johnson, Oct 2016
+
 ### Generative adversarial networks (GANs)
 
 [InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)\
