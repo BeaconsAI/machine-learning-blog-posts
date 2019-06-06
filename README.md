@@ -29,6 +29,11 @@ Adam Kosiorek, Apr 2018
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
 
+### Reinforcement learning (RL)
+
+[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)\
+Andrej Karpathy, May 2016
+
 ### RNNs/LSTMs
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\
