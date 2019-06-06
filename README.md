@@ -14,6 +14,9 @@ Contributions are welcome, just submit a pull request:
 
 ### Attention
 
+[Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)\
+Chris Olah, Shan Carter, Sep 2016
+
 [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)\
 Adam Kosiorek, Oct 2017
 
