@@ -34,6 +34,11 @@ Adam Kosiorek, Apr 2018
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
 
+### Probability
+
+[Gaussian Distributions are Soap Bubbles](https://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)
+Ference Huszar, Nov 2017
+
 ### Reinforcement learning (RL)
 
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)\
@@ -52,3 +57,4 @@ Chris Olah, Aug 2015
 
 [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)\
 Andrej Karpathy, Apr 2019
+
