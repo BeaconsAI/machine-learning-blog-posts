@@ -38,6 +38,9 @@ Chris Olah, Oct 2014
 [InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)\
 Ferenc Huszar, Aug 2016
 
+[Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)\
+Augustus Odena, Apr 2019
+
 ### Gaussian processes
 
 [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)\
