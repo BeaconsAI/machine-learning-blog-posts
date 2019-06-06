@@ -20,6 +20,9 @@ Chris Olah, Shan Carter, Sep 2016
 [Attention in Neural Networks and How to Use It](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)\
 Adam Kosiorek, Oct 2017
 
+[Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)\
+Lilian Weng, Jun 2018
+
 ### Convolutional neural networks (CNNs)
 
 [Conv Nets: A Modular Perspective](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)\
@@ -59,10 +62,7 @@ Chris Olah, Oct 2015
 [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)\
 Chris Olah, Arvind Satyanarayan, Ian Johnson, Shan Carter, Ludwig Schubert, Katherine Ye, Alexander Mordvintsev, Mar 2018
 
-### Miscellaneous/commentary
-
-[Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)\
-Andrej Karpathy, Nov 2017
+### Miscellaneous
 
 [Reflections on Random Kitchen Sinks](http://www.argmin.net/2017/12/05/kitchen-sinks/)\
 Ali Rahimi, Ben Recht, Dec 2017
