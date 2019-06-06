@@ -14,10 +14,6 @@ Contributions are welcome, just submit a pull request:
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
 Chris Olah, Oct 2015
 
-### LSTMs
-
-[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\
-Chris Olah, Aug 2015
 
 ### Normalizing flows
 
@@ -32,6 +28,15 @@ Adam Kosiorek, Apr 2018
 
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
+
+### RNNs/LSTMs
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\
+Andrej Karpathy, May 2015
+
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\
+Chris Olah, Aug 2015
+
 
 ### Training neural networks
 
