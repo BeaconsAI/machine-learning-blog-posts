@@ -96,6 +96,9 @@ Ference Huszar, Nov 2017
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)\
 Andrej Karpathy, May 2016
 
+[AlphaGo, in context](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)\
+Andrej Karpathy, May 2017
+
 ### Recurrent neural networks (RNNs/LSTMs)
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)\
