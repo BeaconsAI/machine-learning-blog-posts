@@ -9,6 +9,11 @@ Contributions are welcome, just submit a pull request:
 * Try not to submit duplicates
 * Improvements to organization are welcome =D
 
+### Generative adversarial networks (GANs)
+
+[InfoGAN: using the variational bound on mutual information (twice)](https://www.inference.vc/infogan-variational-bound-on-mutual-information-twice/)\
+Ferenc Huszar, Aug 2016
+
 ### Information theory
 
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
