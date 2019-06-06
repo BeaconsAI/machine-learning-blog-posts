@@ -9,11 +9,11 @@ Contributions are welcome, just submit a pull request:
 * Try not to submit duplicates
 * Improvements to organization are welcome =D
 
+### Information theory
 
-### Training neural networks
+[Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)\
+Chris Olah, Oct 2015
 
-[A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)\
-Andrej Karpathy, Apr 2019
 
 ### Normalizing flows
 
@@ -29,3 +29,7 @@ Adam Kosiorek, Apr 2018
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
 
+### Training neural networks
+
+[A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)\
+Andrej Karpathy, Apr 2019
