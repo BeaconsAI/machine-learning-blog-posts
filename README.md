@@ -52,6 +52,9 @@ Eric Jang, Jan 2018
 [Normalizing Flows](http://akosiorek.github.io/ml/2018/04/03/norm_flows.html)\
 Adam Kosiorek, Apr 2018
 
+[Change of Variables: A precursor to normalizing flow](http://ruishu.io/2018/05/19/change-of-variables/)\
+Rui Shu, May 2018
+
 [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)\
 Lilian Weng, Oct 2018
 
